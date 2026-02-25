@@ -22,12 +22,12 @@ const facts = [
   {
     num: "05",
     title: "Právní status v ČR",
-    text: "V České republice kratom není zařazen na seznam zakázaných látek a jeho prodej, držení ani osobní užívání nejsou trestné. Zároveň není registrován jako léčivý přípravek — jedná se o botanický produkt prodávaný jako sběratelský nebo přírodovědný objekt.",
+    text: "Od 12. 11. 2025 je kratom v České republice regulován jako psychomodulační látka (PML) dle nařízení vlády č. 456/2025 Sb. Prodej je povolen pouze dospělým osobám starším 18 let v souladu se zákonem č. 167/1998 Sb. a vyhláškou č. 448/2025 Sb. Kratom není registrován jako léčivý přípravek.",
   },
   {
     num: "06",
     title: "Zodpovědné užívání",
-    text: "Doporučujeme začínat s malými množstvími a prodloužit intervaly mezi užitím. Pravidelné každodenní užívání může vést k toleranci a závislosti. Kratom není vhodný pro těhotné ženy, osoby mladší 18 let ani pro osoby užívající opioidní léky.",
+    text: "Při doporučeném dávkování má výrobek povzbuzující účinky, při překročení tlumivé účinky. Tento výrobek by se neměl užívat každý den — mezi jednotlivými užitími by měla být přestávka 3 dny. Neužívejte výrobek při, bezprostředně před a v době kratší než 8 hodin před řízením motorového vozidla. Nevhodné pro osoby mladší 18 let, těhotné a kojící ženy.",
   },
 ];
 

@@ -18,12 +18,19 @@ export default function Footer() {
             </p>
           </div>
 
-          <div className="border-t-2 border-white/30 pt-6 grid md:grid-cols-2 gap-6">
+          <div className="border-t-2 border-white/30 pt-6 grid md:grid-cols-3 gap-6">
             <div className="flex gap-4">
               <span className="text-white text-2xl shrink-0">⚠</span>
               <p className="text-white text-lg font-semibold leading-relaxed">
                 <span className="block text-white/60 text-sm uppercase tracking-widest mb-1">Není určeno osobám mladším 18 let</span>
                 Psychomodulační látky mají psychoaktivní účinky. Výrobek není určen k inhalaci, kouření ani transdermálnímu použití.
+              </p>
+            </div>
+            <div className="flex gap-4">
+              <span className="text-white text-2xl shrink-0">🚗</span>
+              <p className="text-white text-lg font-semibold leading-relaxed">
+                <span className="block text-white/60 text-sm uppercase tracking-widest mb-1">Zákaz řízení</span>
+                Neužívejte výrobek při, bezprostředně před a v době kratší než 8 hodin před řízením motorového vozidla.
               </p>
             </div>
             <div className="flex gap-4">
@@ -35,8 +42,11 @@ export default function Footer() {
             </div>
           </div>
 
-          <p className="mt-6 text-white/40 text-sm">
-            Dle vyhlášky č. 448/2025 Sb., §12
+          <p className="mt-6 text-white font-bold text-base">
+            Užívání tohoto výrobku může poškodit Vaše zdraví. Dbejte informací pro spotřebitele.
+          </p>
+          <p className="mt-2 text-white/40 text-sm">
+            Dle vyhlášky č. 448/2025 Sb., §12 a přílohy č. 4
           </p>
         </div>
       </div>
